@@ -1,0 +1,18 @@
+Nama:Wahyu Anugrah Hendi
+NPM:19312236	
+Kode Soal:B
+
+1. Sistem apa yang anda kembangkan?
+Jawab:Sistem klinik bersalin
+
+2. Permasalahan apa yang terjadi pada studi kasus anda?
+Jawab:Kehilangan data-data penting
+
+3. Apa solusi yang dapat anda berikan pada permasalahan tersebut?
+Jawab: Memperbaiki kesalahan sistem kerja
+
+4. Apa yang menjadi nilai lebih solusi yang anda hadirkan dari sistem/solusi yang sudah ada?
+Jawab:lebih efisien
+
+5. Apa saja kendala dan resiko yang mungkin akan anda hadapi selama pengembangan sistem?
+Jawab:data-data yg banyak bisa saja hilang
