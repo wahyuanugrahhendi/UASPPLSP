@@ -1,0 +1,9 @@
+Nama:Wahyu Anugrah Hendi
+NPM:19312236
+Prodi: Informatika
+
+Link hasil perencanaan sistem menggunakan BRD:
+*upload BRD ke drive dan pastikan akses file bersifat public
+
+Link hasil perencanaan sistem menggunakan Trello:
+*upload link trello dan pastikan akses board bersifat public
